@@ -85,7 +85,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or inquiries, please contact [MShazim](mailto:aslamshazim20@gmail.com).
+For any questions or inquiries, please contact [aslamshazim20@gmail.com](mailto:aslamshazim20@gmail.com).
 
 ## Acknowledgements
 
